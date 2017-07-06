@@ -15,8 +15,9 @@ npm install
 ```
 ionic serve
 ```
+---
 
-
+更多说明：https://github.com/Mingyueyixi/ionic-js/tree/master/handbook
 
  
  
